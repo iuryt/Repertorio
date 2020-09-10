@@ -12,7 +12,7 @@ My accordion repertoire.
 - Asa branca (Humberto Teixeira/Luiz Gonzaga)
 - Xote Apreciado (João Bandeira)
 
-## Valsa
+## Vals
 - Valsinha (Chico Buarque/ Vinicius de Moraes)
 - [Очи чёрные](https://en.wikipedia.org/wiki/Dark_Eyes_(song) "Dark eyes") (Russian folk song)
 
