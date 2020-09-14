@@ -27,5 +27,8 @@ My accordion repertoire.
 ## Samba :brazil:
 - Falando de amor ([Tom Jobim](https://en.wikipedia.org/wiki/Ant%C3%B4nio_Carlos_Jobim)) :yellow_circle:
 
+## Sertanejo :brazil:
+- Tristeza do Jeca ([Angelino de Oliveira](https://pt.wikipedia.org/wiki/Angelino_de_Oliveira))
+
 ## Portugal :portugal:
 - Meninas vamos ao vira (Portuguese folk song) :green_circle:
