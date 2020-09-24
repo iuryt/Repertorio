@@ -18,6 +18,7 @@ My accordion repertoire.
 - Asa branca ([Humberto Teixeira](https://en.wikipedia.org/wiki/Humberto_Teixeira)/[Luiz Gonzaga](https://en.wikipedia.org/wiki/Luiz_Gonzaga)) :yellow_circle:
 - Xote Apreciado (João Bandeira) :yellow_circle:
 - O ovo ([Hermeto pascoal](https://en.wikipedia.org/wiki/Hermeto_Pascoal)) :yellow_circle:
+- Meu cenario ([Petrúcio Amorim](https://pt.wikipedia.org/wiki/Petr%C3%BAcio_Amorim)) :yellow_circle:
 - Roseira do norte ([Pedro Sertanejo](https://pt.wikipedia.org/wiki/Pedro_Sertanejo)) :red_circle:
 
 ## Vals :brazil: :ru:
