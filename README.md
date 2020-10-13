@@ -30,6 +30,7 @@ My accordion repertoire.
 
 ## Sertanejo :brazil:
 - Tristeza do Jeca ([Angelino de Oliveira](https://pt.wikipedia.org/wiki/Angelino_de_Oliveira)) :yellow_circle:
+- Chico Mineiro ([Tonico e Tinoco](https://en.wikipedia.org/wiki/Tonico_%26_Tinoco)) :yellow_circle:
 
 ## Portugal :portugal:
 - Meninas vamos ao vira (Portuguese folk song) :green_circle:
