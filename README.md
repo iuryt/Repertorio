@@ -55,6 +55,9 @@ My accordion repertoire.
 **Xote**
 
 - A Cartomante ([Filpo Ribeiro](https://www.instagram.com/filpoeafeira/)) Am
+- Homem de Saia ([Enéas De Castro / Gatinho](https://immub.org/compositor/gatinho)) Am
+
+**Xote**
 - Me Diz Amor ([Flávio José](https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Jos%C3%A9)) Dm
 - Acre doce ([Nazaré Pereira](https://pt.wikipedia.org/wiki/Nazar%C3%A9_Pereira)) Dm
 
