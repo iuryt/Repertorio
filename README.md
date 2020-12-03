@@ -26,6 +26,11 @@ My accordion repertoire.
 
 # Set List (Forró) :brazil:
 
+**Baião** 
+
+- O ovo ([Hermeto pascoal](https://en.wikipedia.org/wiki/Hermeto_Pascoal)) G
+- Roseira do norte ([Pedro Sertanejo](https://pt.wikipedia.org/wiki/Pedro_Sertanejo)) G
+
 **Xote**
 
 - Meu Cenário ([Petrúcio Amorim](https://pt.wikipedia.org/wiki/Petr%C3%BAcio_Amorim)) Gm
@@ -45,9 +50,7 @@ My accordion repertoire.
 **Baião** 
 
 - Asa branca ([Humberto Teixeira](https://en.wikipedia.org/wiki/Humberto_Teixeira)/[Luiz Gonzaga](https://en.wikipedia.org/wiki/Luiz_Gonzaga)) G
-- O ovo ([Hermeto pascoal](https://en.wikipedia.org/wiki/Hermeto_Pascoal)) G
 - Luar do Sertão ([Catulo da Paixão Cearense](https://pt.wikipedia.org/wiki/Catulo_da_Paix%C3%A3o_Cearense)) G
-- Roseira do norte ([Pedro Sertanejo](https://pt.wikipedia.org/wiki/Pedro_Sertanejo)) G
 
 **Xote**
 
